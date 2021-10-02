@@ -1,0 +1,63 @@
+body
+{
+	background-image: url("b.jpg.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  background-size: cover;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 15px;
+		float: none;
+		border-radius: 15px;
+		border-width: 3px;
+		border-color: steelblue;
+		width: 450px;
+		margin-bottom: 50px;
+	
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#h1
+{
+	font-family: 'Special Elite', cursive;
+	color:black;
+	font-size: 50px;
+}
+h2, h3{
+	font-family: 'Cookie', cursive;
+	color: teal;
+}
+#log_in{
+	background-color: white;
+	color: teal;
+	width: 450px;
+	height: 30px;
+	border-radius: 75px;
+	font-family: 'Cookie', cursive;
+	font-size: 20px;
+}
